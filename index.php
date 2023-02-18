@@ -1,4 +1,3 @@
-api key = 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
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,12 +12,12 @@ api key = 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
         <h1>Writing 5 Marketting caption for your product</h1> 
     </div>
 
-    <form action="">
+    <form action="process.php"  method="POST">
         <div>
             <input type="text" name="prompt" placeholder="shoe, burger, etc">
         </div>
         <div>
-            <input type="submit" name="prompt" value="Generate">
+            <input type="submit" value="Generate">
         </div>
     </form>
 
