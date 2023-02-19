@@ -14,7 +14,7 @@
 
     <form action="process.php"  method="POST">
         <div>
-            <input type="text" name="prompt" placeholder="shoe, burger, etc">
+            <input type="text" name="product" placeholder="shoe, burger, etc">
         </div>
         <div>
             <input type="submit" value="Generate">

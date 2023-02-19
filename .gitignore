@@ -2,6 +2,6 @@ composer.phar
 /vendor/
 composer.json
 composer.lock
-.envgit
+.env
 
 
