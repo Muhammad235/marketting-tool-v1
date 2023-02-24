@@ -15,7 +15,9 @@ use \Orhanerday\OpenAi\OpenAi;
 //$api_key = getenv('OPENAI_API_KEY');
 
 if (isset($_POST['submit'])) {
-  
+
+
+
 
 
 $open_ai = new OpenAi($open_ai_key);
