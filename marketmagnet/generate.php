@@ -16,7 +16,7 @@ use \Orhanerday\OpenAi\OpenAi;
 
 if (isset($_POST['submit'])) {
   
-$open_ai_key = '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';
+
 
 $open_ai = new OpenAi($open_ai_key);
 
